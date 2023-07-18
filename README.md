@@ -1,2 +1,1 @@
-# demo_sesi
-# demo_sesis_JPA
+# Projeto com operações CRUD usando a implementação JPA Hibernate no Spring Boot.
